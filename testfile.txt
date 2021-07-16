@@ -2,3 +2,4 @@ File to be pulled
 
 adding files to commit on remote repo
 
+Trying ssh bases connection
